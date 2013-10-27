@@ -1,0 +1,8 @@
+Weblink sets up a small Web server on your computer to make some of your files available as downloadable web links.
+
+Original script was found here : http://stackp.online.fr/?p=45
+
+Add : 
+
+* folder support, link recursively files in folder
+* Zip support, zip one or more folder before share it
